@@ -1,13 +1,13 @@
 {
   "name": "Scratch",
   "version": "1.0.0",
-  "description": "",
+  "description": "React project from scratch",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Christian Olszewski",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.22.1",
