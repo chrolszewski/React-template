@@ -7,7 +7,7 @@ var config = {
     ],
     output: {
         path: path.join(__dirname,'www'),
-        filname: 'bundle.js',
+        filename: 'bundle.js',
     },
     module: {
         loaders: [
@@ -20,7 +20,7 @@ var config = {
     },
     resolveLoader: {
         root: [
-            path.join(__dirname, 'node_modules'),            
+            path.join(__dirname, 'node_modules'), 
         ],
     },
     resolve: {
